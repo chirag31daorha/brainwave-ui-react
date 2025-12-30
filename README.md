@@ -1,8 +1,30 @@
-# React + Vite
+# Brainwave UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Brainwave UI is a single-page React web application focused on modern design,
+smooth animations, and clean component structure.
 
-Currently, two official plugins are available:
+This project was built as a frontend practice project to improve React,
+CSS styling, and UI layout skills.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- React
+- JavaScript
+- CSS
+
+## Features
+- Single-page responsive layout
+- Smooth UI animations
+- Reusable React components
+- Clean and modern design
+
+## Project Status
+This is a UI-only project.
+Buttons and interactions are limited and no backend is connected.
+
+## Purpose
+- Practice React fundamentals
+- Improve UI/UX and animation skills
+- Build consistency on GitHub
+
+## Author
+Chirag Daorha
